@@ -1,13 +1,13 @@
 {
-	"applinks": {
-		"apps": [],
-		"details": [
-			{
+  "applinks": {
+    "apps": [],
+    "details": [
+	{
         "appID": "795X77Y925.com.kolnetworks.koln",
         "paths": [
-          "/invitate"
+          "*"
         ]
       }
-		]
-	}
+    ]
+  }
 }
